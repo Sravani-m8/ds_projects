@@ -68,7 +68,10 @@ Built and evaluated the following models:
    Cars with a capacity of two passengers are more likely to be  unacceptable. Models accommodating four or more passengers show better acceptability ratings.  
 
 4. **Luggage boot size has a minor influence:**  
-   Cars with medium or large luggage boots are slightly more likely to be classified as acceptable or very good, reflecting a preference for better storage options.  
+   Cars with medium or large luggage boots are slightly more likely to be classified as acceptable or very good, reflecting a preference for better storage options.
+
+   ![image](https://github.com/user-attachments/assets/ab85d2fa-3d34-4ecd-b1f5-a02af33c6bf8)
+   
 ## Requirements
 
 - Python 3.x  
