@@ -44,6 +44,9 @@ The following steps were followed to implement the project:
 - Correlation Insights: Features like CreditScore, Balance, and Age were highly correlated with customer churn. A higher credit score and balance appeared to decrease the likelihood of churn.
 - Gender and Geography: The churn rate was slightly higher for male customers compared to females, and churn varied across different geographical locations.
 
+![screenshot1](https://github.com/user-attachments/assets/c8d75e2b-5f72-40fd-a004-3b203a643b14)
+![screenshot2](https://github.com/user-attachments/assets/59a1b5e4-81a4-4961-817c-0a84e7fb6eca)
+
 ## Model Performance
 
 Based on the evaluation results, logistic regression with class weights was best performing model with 70% recall.
