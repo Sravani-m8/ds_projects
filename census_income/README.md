@@ -52,7 +52,7 @@ The dataset used in this project is the **Adult Census Income dataset**, which i
 
 ## Analysis Insights
 
-![image](https://github.com/user-attachments/assets/7b18199d-e038-4b76-8562-da4e3099e080)
+![image](https://github.com/user-attachments/assets/f0c7d3ed-1c20-4769-8520-cdf1d12c6734)
 
 ### 1. Age vs. Income
 - **Median Age**: Both income groups have a median age around 40 years.
