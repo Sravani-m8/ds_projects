@@ -55,6 +55,8 @@ The dataset is structured as follows:
 
 ## Analysis and Insights
 
+![image](https://github.com/user-attachments/assets/780b497d-0531-42ea-9e20-bb9999537263)
+
 The analysis provided the following insights into the dataset:
 
 - **Credit Default Distribution**: Over 20,000 credit card holders did not default, and around 5,000 credit card holders defaulted.
