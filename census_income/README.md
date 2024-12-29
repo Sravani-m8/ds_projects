@@ -27,9 +27,6 @@ The dataset used in this project is the **Adult Census Income dataset**, which i
 
 ## Preprocessing and Data Cleaning
 
-To prepare the data for modeling, several preprocessing and data cleaning steps were performed:
-
-
 1. **Data Cleaning**:
 - Removed **duplicate rows** from the dataset to ensure the quality of the data.
 - Some columns in the dataset contained missing values (represented as "?"), replaced **"?"** values in the dataset with **NaN** to standardize missing data and make it easier to handle.
@@ -47,7 +44,6 @@ To prepare the data for modeling, several preprocessing and data cleaning steps 
 
 
 
-
 ## Modeling and Evaluation
 
 - Built and compare models like logistic regression, decision tree, random forest, ada boost and gradient boosing and compare the performance using metrics like precision, recall and fi1 score.
@@ -56,7 +52,7 @@ To prepare the data for modeling, several preprocessing and data cleaning steps 
 
 ## Analysis Insights
 
-Here are some key findings based on the various demographic and socioeconomic factors compared with income levels (≤50K and >50K) in the image:
+![image](https://github.com/user-attachments/assets/f0c7d3ed-1c20-4769-8520-cdf1d12c6734)
 
 ### 1. Age vs. Income
 - **Median Age**: Both income groups have a median age around 40 years.
