@@ -85,7 +85,7 @@ The dataset used for this project contains several features that provide insight
 
 ## Key Findings from Data Analysis
 
-Here are four key findings from the visualized data:
+![image](https://github.com/user-attachments/assets/1ade6792-a62b-4ad4-923f-02d3b43e986d)
 
 1. **Marital Status Distribution**:
  -  Most students with a marital status of 1 have higher counts in all target categories, particularly "Dropout."
