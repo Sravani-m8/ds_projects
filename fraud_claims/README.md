@@ -9,9 +9,6 @@ The main objective of the Insurance Claims Fraud Detection project is to develop
 
 
 
-
-
-
 ## Dataset
 
 The dataset contains the following columns:
@@ -90,7 +87,11 @@ The dataset contains the following columns:
 8. **Model Training**: 
 - Train machine learning models like Logistic Regression, Decision Trees, and Random Forest on the preprocessed data and evaluate the models using recall, precision and f1score.
 
+  
+
 ## Key Insights from Fraud Claims Project Statistics
+
+![image](https://github.com/user-attachments/assets/8d5efe9c-bf98-4732-9480-b360013a726f)
 
 1. **Customer Tenure**:
   - The average customer tenure is approximately 204 months (around 17 years), with a wide range from 0 to 479 months, indicating long-term customer relationships.
