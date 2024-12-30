@@ -103,6 +103,8 @@ The main objective of this project is to build a predictive model that can accur
 
 ## Insights from Analysis 
 
+![image](https://github.com/user-attachments/assets/22809eb6-9aac-48c3-ae83-c26374fc8ba8)
+
 1. **Age Distribution**: Customers range in age from 17 to 98, with a median age of 38. Age does not significantly differ between subscribers and non-subscribers.  
 2. **Call Duration**: Longer call durations correlate strongly with higher subscription rates (553 seconds for subscribers vs. 220 seconds for non-subscribers).  
 3. **Contact Campaigns**: Subscribers were contacted fewer times on average, suggesting efficient targeting improves outcomes.  
