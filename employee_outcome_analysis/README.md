@@ -1,4 +1,3 @@
-![Uploading image.png…]()
 
 # Job Outcome Prediction
 
@@ -155,7 +154,7 @@ These scores are derived from personality assessments and are rated on a scale:
 
 ## Insights from Analysis
 
-![image](https://github.com/user-attachments/assets/88a800c3-d152-4bdd-b300-701edc96ba1f)
+![image](https://github.com/user-attachments/assets/fbb91a01-96cf-46b6-bdcd-cd112d8c3b72)
 
 1. **Academic Performance Trends:**  
 - Most students scored around 85 in their 10th-grade exams and around 80 in their 12th-grade exams. A similar pattern was observed in college GPAs, with most students achieving around 80.  
