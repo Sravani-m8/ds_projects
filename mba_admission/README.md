@@ -70,7 +70,7 @@ The dataset consists of MBA applications with the following features:
 
 ## Analysis Insights
 
-
+![image](https://github.com/user-attachments/assets/6534e1d9-7136-4019-8271-378faa2ce881)
 
 1. There are more male applicants compared to female applicants, indicating a higher interest or application rate among males for the MBA program.
 
