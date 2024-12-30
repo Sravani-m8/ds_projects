@@ -91,7 +91,7 @@ The dataset contains the following columns:
 
 ## Key Insights from Fraud Claims Project Statistics
 
-![image](https://github.com/user-attachments/assets/8d5efe9c-bf98-4732-9480-b360013a726f)
+![image](https://github.com/user-attachments/assets/ba31739b-36bf-4d84-b5ba-47c29e8bd96a)
 
 1. **Customer Tenure**:
   - The average customer tenure is approximately 204 months (around 17 years), with a wide range from 0 to 479 months, indicating long-term customer relationships.
