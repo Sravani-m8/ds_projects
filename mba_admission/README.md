@@ -27,33 +27,33 @@ The dataset consists of MBA applications with the following features:
 
 ### Data Preprocessing
 1. **Handling Missing Values:**
-  - Filled missing values in the `admission` column with "Waitlist."
-   - Dropped rows with missing values in other columns (e.g., `race`).
+    - Filled missing values in the `admission` column with "Waitlist."
+    - Dropped rows with missing values in other columns (e.g., `race`).
 
 2. **Duplicate Removal:**
-  - Verified there were no duplicate rows.
+    - Verified there were no duplicate rows.
 
 3. **Feature Removal:**
-  - Dropped the `application_id` column and `international` column, as they were irrelevant for prediction.
+    - Dropped the `application_id` column and `international` column, as they were irrelevant for prediction.
 
 4. **Encoding Categorical Variables:**
-  - Applied one-hot encoding to categorical features (`gender`, `major`, `race`, `work_industry`).
-   - Label encoded the target feature (`admission`).
+    - Applied one-hot encoding to categorical features (`gender`, `major`, `race`, `work_industry`).
+    - Label encoded the target feature (`admission`).
 
 5. **Scaling Numerical Features:**
-  - Standardized numerical features (`gpa`, `gmat`, `work_exp`) using `StandardScaler`.
+   - Standardized numerical features (`gpa`, `gmat`, `work_exp`) using `StandardScaler`.
 
 6. **Addressing Class Imbalance:**
-  - Used SMOTE (Synthetic Minority Oversampling Technique) to balance the classes in the training data.
+   - Used SMOTE (Synthetic Minority Oversampling Technique) to balance the classes in the training data.
 
 
 ### Exploratory Data Analysis (EDA)
 
 1.  **Categorical Features**:
-- Plotted count distributions of features like `gender`, `major`, `race`, and `work_industry` against the `admission` target.
+   - Plotted count distributions of features like `gender`, `major`, `race`, and `work_industry` against the `admission` target.
 
 2. **Numerical Features**:
-- Visualized distributions and boxplots for `gpa`, `gmat`, and `work_exp` to understand trends and detect outliers.
+   - Visualized distributions and boxplots for `gpa`, `gmat`, and `work_exp` to understand trends and detect outliers.
 
 
 ### Feature Engineering
@@ -64,8 +64,8 @@ The dataset consists of MBA applications with the following features:
 
 ### Model Building and Evaluation
 
-- Built and compare multiple models based on recall.
-- Random Forest and Gradient Boosting models showed robust performance with higher recall and AUC-ROC scores.
+   - Built and compare multiple models based on recall.
+   - Random Forest and Gradient Boosting models showed robust performance with higher recall and AUC-ROC scores.
 
 
 ## Analysis Insights
