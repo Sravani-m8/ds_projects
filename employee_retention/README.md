@@ -67,10 +67,9 @@ Four different machine learning models are trained to predict employee retention
 - **Gradient Boosting Model**: Feature importance is derived using the `feature_importances_` attribute of the Gradient Boosting model. A bar chart is plotted to visualize the relative importance of each feature in predicting employee retention.
 
 
-
-
-
 ## Key Insights from Employee Retention
+
+![image](https://github.com/user-attachments/assets/9ed55203-1432-4db6-ad64-cc8c063d1630)
 
 - The median joining year is 2015, with 25% of employees joining before 2013 and 25% joining after 2017.
 
