@@ -44,7 +44,7 @@ The dataset used in this project is the Netflix-Subscriptions.csv file, which co
 
 - The final SARIMA model was used to forecast future Netflix subscriber counts.
 
-![image](https://github.com/user-attachments/assets/9370b9f4-0a1a-4ed7-b2e3-e7c37fd76177)
+![image](https://github.com/user-attachments/assets/ddd7c255-b71b-467f-89f1-338af9579d8a)
 
 ## Results
 
