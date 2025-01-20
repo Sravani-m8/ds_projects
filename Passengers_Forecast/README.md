@@ -19,6 +19,8 @@ The dataset airline_passengers.csv consists of the following columns:
 ### 2. Time Series Decomposition
 - The time series was decomposed using both additive and multiplicative models to examine trends, seasonality, and residual components. The decomposition helps in understanding the underlying patterns in the data.
 
+  ![image](https://github.com/user-attachments/assets/a8952687-b1ab-4e75-b4e0-eb6b6d8ab7de)
+
 ### 3. Stationarity Check
 - The **Augmented Dickey-Fuller (ADF) test** was used to check the stationarity of the time series.
   - The series was initially non-stationary.
@@ -39,7 +41,6 @@ The dataset airline_passengers.csv consists of the following columns:
 
 ### 8. Forecasting
 - The trained SARIMAX model was used to forecast future passenger counts.
-
 
 
 
