@@ -53,6 +53,7 @@ The dataset contains transactional data with the following key attributes:
 - Used a dendrogram to illustrate hierarchical clustering results.
 - Visualized WCSS and silhouette scores to select the optimal number of clusters.
 
+![image](https://github.com/user-attachments/assets/dff02738-7d64-4fec-9a5d-0a44a8f8269a)
 
 
 ## Conclusion
