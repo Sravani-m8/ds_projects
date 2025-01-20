@@ -40,6 +40,7 @@ The SARIMA model is implemented using `statsmodels` to forecast the future stock
 ### SARIMA Forecast:
 forecast for the next 30 days.
 
+![image](https://github.com/user-attachments/assets/c1cea278-a250-41ba-b544-2fab7471ea55)
 ## Prophet Model
 
 The Prophet model is used to model the time series data with the option to add custom seasonality.
