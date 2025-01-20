@@ -35,7 +35,7 @@ The aim is to develop an accurate model to assist in understanding the contribut
 - Applied one-hot encoding to categorical features and label encoding to the target variable.
 
 
-![image](https://github.com/user-attachments/assets/08e15dbb-0e52-4c97-9c89-00fa31c24350)
+![image](https://github.com/user-attachments/assets/84bc7309-de11-46ae-8fb3-6e63e387a964)
 
 ### **Model Building**
 1. **Train-Test Split:**
